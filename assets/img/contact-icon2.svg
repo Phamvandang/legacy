@@ -1,0 +1,8 @@
+<svg id="contact-icon2" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <circle id="Ellipse_15" data-name="Ellipse 15" cx="16" cy="16" r="16" fill="#fff"/>
+  <g id="mail_outline" transform="translate(8 10.667)">
+    <g id="Group_100" data-name="Group 100">
+      <path id="Path_8" data-name="Path 8" d="M12.26,20.26a.886.886,0,0,1,.629-.26H27.111a.886.886,0,0,1,.629.26m-15.479,0a.886.886,0,0,0-.26.629V31.556a.889.889,0,0,0,.889.889H27.111A.889.889,0,0,0,28,31.556V20.889a.886.886,0,0,0-.26-.629m-15.479,0,6.483,6.482a1.778,1.778,0,0,0,2.514,0L27.74,20.26" transform="translate(-12 -20)" fill="none" stroke="#643694" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
